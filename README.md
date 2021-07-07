@@ -12,3 +12,6 @@ Swift completed tutorials.
 
 — July 6:
 - Swift basics repeat
+
+— July 7:
+- Swift basics repeat
