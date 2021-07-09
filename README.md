@@ -19,4 +19,7 @@ Swift completed tutorials.
 —- July 8:
 - Swift basics
 
+—- July 9:
+- Swift basics and documentation
+
 
