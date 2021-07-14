@@ -25,4 +25,7 @@ Swift completed tutorials.
 —- July 12
 - youtube video tutorials with basics
 
+—- July 14
+- AutoLayout guides etc
+
 
