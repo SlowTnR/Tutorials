@@ -28,4 +28,7 @@ Swift completed tutorials.
 —- July 14
 - AutoLayout guides etc
 
+—- July 16:
+- callbacks
+
 
