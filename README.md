@@ -35,4 +35,7 @@ Swift completed tutorials.
 - callbacks
 - autolayout
 
+— July 10:
+- sroapp
+- stackviews
 
