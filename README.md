@@ -35,7 +35,10 @@ Swift completed tutorials.
 - callbacks
 - autolayout
 
-— July 10:
+— July 19:
 - sroapp
 - stackviews
+
+—- July 20:
+- MVC/MVVM
 
