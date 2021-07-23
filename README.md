@@ -45,3 +45,7 @@ Swift completed tutorials.
 -- July 21:
 - MVC/MVVM
 
+-- July 23:
+- video tutorials
+- documentation
+
