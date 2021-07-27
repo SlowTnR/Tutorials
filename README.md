@@ -49,6 +49,9 @@ Swift completed tutorials.
 - video tutorials
 - documentation
 
---July 25:
+-- July 25:
 - WWDC sessions
+
+—- July 27:
+- videos
 
