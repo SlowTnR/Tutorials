@@ -58,3 +58,6 @@ Swift completed tutorials.
 -- July 28:
 - videos
 
+-- July 29:
+- ui programmatically
+
