@@ -62,3 +62,7 @@ Swift completed tutorials.
 - ui programmatically
 - sroapp dev update
 
+-- July 30:
+- videos
+- hashtables
+
