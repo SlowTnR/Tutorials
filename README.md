@@ -66,3 +66,6 @@ Swift completed tutorials.
 - videos
 - hashtables
 
+-- August 1:
+- nodejs mongo backend
+
