@@ -69,3 +69,6 @@ Swift completed tutorials.
 -- August 1:
 - nodejs mongo backend
 
+-- August 1:
+- api calls
+
