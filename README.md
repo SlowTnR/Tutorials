@@ -69,6 +69,9 @@ Swift completed tutorials.
 -- August 1:
 - nodejs mongo backend
 
--- August 1:
+-- August 2:
 - api calls
+
+-- August 4:
+- some code refactoring on sro app
 
