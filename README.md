@@ -75,3 +75,5 @@ Swift completed tutorials.
 -- August 4:
 - some code refactoring on sro app
 
+-- August 5:
+- sro app dev brarnch api calls
