@@ -80,3 +80,6 @@ Swift completed tutorials.
 
 -- August 6:
 - api calls tutorials
+
+-- August 9:
+- videos
