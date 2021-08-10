@@ -83,3 +83,7 @@ Swift completed tutorials.
 
 -- August 9:
 - videos
+
+-- August 10:
+- SafariKit
+- HID
