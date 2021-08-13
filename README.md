@@ -87,3 +87,6 @@ Swift completed tutorials.
 -- August 10, 11:
 - SafariKit
 - HID
+
+-- August 13:
+- sroapp updates
